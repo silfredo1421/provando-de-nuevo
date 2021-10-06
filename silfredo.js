@@ -2,7 +2,7 @@ var d = document.getElementById("dibujito");
 var lienzo = d.getContext("2d");
 var linea = 30;
 var l = 0;
-var colorsote = "pink";
+var colorsote = "red";
 var yi,  xf;
 
 while (l < linea)
